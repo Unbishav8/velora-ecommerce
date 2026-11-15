@@ -3,6 +3,7 @@
 # Sensitive Environment Variables
 .env
 .env.*
+!.env.example
 backend/config/.env
 backend/config/.env.php
 
